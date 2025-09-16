@@ -178,4 +178,5 @@ DB Session (app/database.py) + SQLModel (app/models.py)
 * **Repository**: SQL puro via SQLModel/SQLAlchemy (CRUD).
 * **Database**: engine, sessão e criação de schema.
 
----
+## Reference:
+[Documento Fast API](https://fastapi.tiangolo.com/) : Documentação do FAST API. 
