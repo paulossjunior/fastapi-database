@@ -3,6 +3,7 @@
 * **01_app_without_design_patterns**: exemplo de código que salva um item no banco de dados sem padrão. 
 * **02_app_without_dto**: exemplo de código que salva um item no banco de dados, que utiliza o padrão DTO.
 * **03_app_mvc**: exemplo de código que salva um item no banco de dados, usando o padrão MVC.
+* **04_app_mvc_relation**: exemplo de código que salva um item com relacionamento no banco de dados, usando o padrão MVC.
 
 ## Explicando o código 03_APP_MVC
 
